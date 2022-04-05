@@ -6,3 +6,4 @@ Data Science Portfolio
 - Several transformations made to the inital data sources, everything done in pyspark
 - Used Hive Tables for data processing, Apache Superset for data visualization
 
+![](https://github.com/FCampos99/Francisco_Portfolio/blob/main/images/social_stats.jpg)
