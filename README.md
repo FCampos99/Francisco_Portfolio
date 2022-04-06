@@ -6,7 +6,7 @@ Data Science Portfolio
 - Several transformations made to the inital data sources, everything done in pyspark
 - Used Hive Tables for data processing, Apache Superset for data visualization
 
-(https://github.com/FCampos99/Francisco_Portfolio/blob/main/images/social_stats.jpg)
+[]! (https://github.com/FCampos99/Francisco_Portfolio/blob/main/images/social_stats.jpg)
 
 # [Project 2: Kaggle Titanic challenge](https://github.com/FCampos99/Projects/tree/main/TitanicChallenge/Titanic)
 - Predicted the survival rate of titanic passengers based on their characteristics 
